@@ -51,7 +51,7 @@ https://www.youtube.com
 [youtube](https:www.youtube.com)  
 [google](https://www.google.com)  
 
-![image](./img/me.JPG)  
+![image](img/me.JPG)  
 
 | Name | email | phone | 
 | ---- | ------| ------| 
